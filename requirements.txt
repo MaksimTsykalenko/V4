@@ -1,0 +1,8 @@
+fastapi
+asyncpg
+psycopg2
+databases
+SQLAlchemy
+starlette
+pydantic
+uvicorn
